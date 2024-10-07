@@ -1,6 +1,6 @@
 {
     "name": "com.xarc.coreframework",
-    "version": "1.2.4",
+    "version": "1.2.5",
     "displayName": "Xarc Framework",
     "description": "VR Development SDK",
     "unity": "2022.1",
@@ -18,7 +18,7 @@
     },
     "samples" : [
       {
-        "displayName": "Core Framework",
+        "displayName": "VR",
         "description": "The Xarc Framework is a collection of scripts and prefabs to help you develop interactions in VR. It is intended to make it easier for developers to create their own interactable objects and be productive quickly.There are multiple prefabs available to provide you with examples of common VR interactions. These range from simple blocks and balls to switches, levers, weapons and rocket arms. You are encouraged to experiment with these, inspect the scripts to see how they were made, and create your own.",
         "path": "Samples~/Core"
      }
