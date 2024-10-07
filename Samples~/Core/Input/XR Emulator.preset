@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: XR Emulator
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: f4b00acd070e37747b9e19b276d11877, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: EmulatorEnabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: EditorOnly
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: RequireGameFocus
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: EmulatorActionSet
+    value: 
+    objectReference: {fileID: -944628639613478452, guid: 308486218aa106547be4b05549777133, type: 3}
+  - target: {fileID: 0}
+    propertyPath: ForceStraightTeleportRotation
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: AllowUpDownControls
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerUpAction
+    value: 
+    objectReference: {fileID: -4870421553478864907, guid: 308486218aa106547be4b05549777133, type: 3}
+  - target: {fileID: 0}
+    propertyPath: PlayerDownAction
+    value: 
+    objectReference: {fileID: -5448902572583850724, guid: 308486218aa106547be4b05549777133, type: 3}
+  - target: {fileID: 0}
+    propertyPath: MinPlayerHeight
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MaxPlayerHeight
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LockCameraAction
+    value: 
+    objectReference: {fileID: 7248157346319567513, guid: 308486218aa106547be4b05549777133, type: 3}
+  - target: {fileID: 0}
+    propertyPath: CameraLookAction
+    value: 
+    objectReference: {fileID: 3400255892409606642, guid: 308486218aa106547be4b05549777133, type: 3}
+  - target: {fileID: 0}
+    propertyPath: CameraLookSensitivityX
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CameraLookSensitivityY
+    value: 0.1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MinimumCameraY
+    value: -90
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MaximumCameraY
+    value: 90
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LeftGripAction
+    value: 
+    objectReference: {fileID: 2893873810458767124, guid: 308486218aa106547be4b05549777133, type: 3}
+  - target: {fileID: 0}
+    propertyPath: LeftTriggerAction
+    value: 
+    objectReference: {fileID: 1257351604525850075, guid: 308486218aa106547be4b05549777133, type: 3}
+  - target: {fileID: 0}
+    propertyPath: LeftThumbNearAction
+    value: 
+    objectReference: {fileID: 6699440343762761716, guid: 308486218aa106547be4b05549777133, type: 3}
+  - target: {fileID: 0}
+    propertyPath: RightGripAction
+    value: 
+    objectReference: {fileID: 819434984722764473, guid: 308486218aa106547be4b05549777133, type: 3}
+  - target: {fileID: 0}
+    propertyPath: RightTriggerAction
+    value: 
+    objectReference: {fileID: 8815570524221503200, guid: 308486218aa106547be4b05549777133, type: 3}
+  - target: {fileID: 0}
+    propertyPath: RightThumbNearAction
+    value: 
+    objectReference: {fileID: -9043086599165714804, guid: 308486218aa106547be4b05549777133, type: 3}
+  - target: {fileID: 0}
+    propertyPath: HMDIsActive
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LeftControllerPosition.x
+    value: -0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LeftControllerPosition.y
+    value: -0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LeftControllerPosition.z
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: RightControllerPosition.x
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: RightControllerPosition.y
+    value: -0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: RightControllerPosition.z
+    value: 0.5
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []
