@@ -1,1 +1,2 @@
 Hello from Xarc !
+This is Xarc Framework for VR development
